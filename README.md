@@ -1,0 +1,1 @@
+docker exec ollama ollama run llava:34b
